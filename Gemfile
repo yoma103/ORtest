@@ -7,8 +7,12 @@ gem 'rails', '3.2.1'
 
 group :development, :test do
   gem 'sqlite3'
-gem 'rspec-rails', '2.6.1'
+gem 'rspec-rails', '2.7.0'
   gem 'webrat', '0.7.1'
+gem 'autotest'
+gem 'autotest-rails-pure'
+gem 'autotest-fsevent'
+gem 'autotest-growl'
 end
 group :production do
   gem 'pg'

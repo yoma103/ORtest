@@ -1,0 +1,11 @@
+{\rtf1\ansi\ansicpg1251\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red29\green112\blue0;\red234\green234\blue234;\red8\green8\blue8;
+\red165\green18\blue22;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww9000\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl300
+
+\f0\fs26 \cf2 \cb3 require\cf4  \cf5 'autotest/growl'\cf4 \
+\cf2 require\cf4  \cf5 'autotest/fsevent'\cf4 \
+}
